@@ -1,5 +1,5 @@
 # I'm Batuhan Gökbudak
-## I am a computer programming student
+## Computer Programmer
 
 ### Connect with me:
 <p align="left">
